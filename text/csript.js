@@ -1,4 +1,4 @@
-"use sctrict"
+"use sctrict";
 const number0FFilms = +prompt("Сколько фильмов вы уже посмотрели?");
 
 const  personalMovieDB = {
